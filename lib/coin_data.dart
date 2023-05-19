@@ -3,6 +3,7 @@ const List<String> currenciesList = [
   'BRL',
   'CAD',
   'CNY',
+  'DKK',
   'EUR',
   'GBP',
   'HKD',
